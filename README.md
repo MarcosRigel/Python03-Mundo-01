@@ -3,5 +3,5 @@
 
 
 <p align="center">
-  <img alt="Visualização da tela de carregamento" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="100%">
+  <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle.png" width="50%">
 </p>
